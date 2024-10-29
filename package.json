@@ -1,0 +1,21 @@
+{
+  "name": "com.legeodo.scriptableobjectaudiosystem",
+  "version": "1.0.0",
+  "displayName": "Scriptable Object AudioSystem",
+  "dependencies": {},
+  "author": {
+    "name": "Legeodo"
+  },  
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/Legerdo/ScriptableObjectAudioSystem.git",
+    "revision": "main"
+  },
+  "samples":
+  [
+      {
+          "displayName": "Demo",
+          "path": "Samples~/Demo"
+      }
+  ]  
+}

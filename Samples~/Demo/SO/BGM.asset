@@ -1,0 +1,59 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 56af63f7e5a59234a8a0f5f2cfe251a8, type: 3}
+  m_Name: BGM
+  m_EditorClassIdentifier: 
+  audioMixerSettings: {fileID: 11400000, guid: 0d21427af0322c6428a0b07686fee0ac, type: 2}
+  exclusivePlay: 1
+  sounds:
+  - soundId: bgm
+    audioClipReference:
+      m_AssetGUID: f1deda321250a9f4f97146d3524fa2e1
+      m_SubObjectName: 
+      m_SubObjectType: 
+      m_EditorAssetChanged: 0
+    volume: 1
+    loop: 1
+    pitch: 1
+    spatialBlend: 0
+    maxSimultaneousPlays: 1
+    useFadeEffects: 1
+    fadeInDuration: 3
+    fadeOutDuration: 3
+  - soundId: bgm2
+    audioClipReference:
+      m_AssetGUID: a46340ce2af7bdf429232b16c704844b
+      m_SubObjectName: 
+      m_SubObjectType: 
+      m_EditorAssetChanged: 0
+    volume: 1
+    loop: 1
+    pitch: 1
+    spatialBlend: 0
+    maxSimultaneousPlays: 1
+    useFadeEffects: 1
+    fadeInDuration: 3
+    fadeOutDuration: 3
+  - soundId: bgm3
+    audioClipReference:
+      m_AssetGUID: a77d73fec13c1ce4fb2a679830068d65
+      m_SubObjectName: 
+      m_SubObjectType: 
+      m_EditorAssetChanged: 0
+    volume: 1
+    loop: 1
+    pitch: 1
+    spatialBlend: 0
+    maxSimultaneousPlays: 1
+    useFadeEffects: 1
+    fadeInDuration: 3
+    fadeOutDuration: 3
